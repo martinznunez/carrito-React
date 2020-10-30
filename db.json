@@ -1,0 +1,60 @@
+{
+    "productos": [
+      {
+        "nombre": "Mesa Escritorio",
+        "precio": 800,
+        "categoria": "articulos del hogar",
+        "id": 1
+        
+      },
+      {
+        "nombre": "Pelota",
+        "precio": 22,
+        "categoria": "jugueteria",
+        "id": 2
+       
+      },
+      {
+        "nombre": "Pala ",
+        "precio": 15,
+        "categoria": "jardineria",
+        "id": 3
+       
+      },
+      {
+        "nombre": "Manguera",
+        "precio": 120,
+        "categoria": "jardineria",
+        "id": 4
+      },
+      {
+        "nombre": "Bicicleta",
+        "precio": 100,
+        "categoria": "jugueteria",
+        "id": 5
+        
+      },
+      {
+        "nombre": "Cocina",
+        "precio": 170,
+        "categoria": "articulos del hogar",
+        "id": 6
+        
+      },
+      {
+        "nombre": "Horno",
+        "precio": 322,
+        "categoria": "articulos del hogar",
+        "id": 7
+        
+      }, 
+      {
+        "nombre": "Sillón",
+        "precio": "200",
+        "categoria": "articulos del hogar",
+        "id": 8
+      }
+      
+      
+    ]
+  }
